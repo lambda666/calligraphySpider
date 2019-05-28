@@ -1,0 +1,1160 @@
+1558402425193	geckodriver	INFO	Listening on 127.0.0.1:58861
+1558402428269	mozprofile::profile	INFO	Using profile path C:\Users\lambda\AppData\Local\Temp\rust_mozprofile.jeYwI6ETVKhZ
+1558402428272	geckodriver::marionette	INFO	Starting browser D:\program files\Mozilla Firefox\firefox.exe
+1558402428467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58871
+1558402431549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558402431550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558402431550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558402435054	Marionette	INFO	Listening on port 2828
+[Parent 13204, Gecko[_IOThreaChild 16240, Chrome_ChildThread] WARNING: pipe errdor: 109: file z:/build/bui] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16240,1558402489227	Marionette	INFO	Stopped listening on port 2828
+[GPU 11900, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558402730103	geckodriver	INFO	Listening on 127.0.0.1:59042
+1558402733171	mozprofile::profile	INFO	Using profile path C:\Users\lambda\AppData\Local\Temp\rust_mozprofile.7wsywcQdFYvj
+1558402733175	geckodriver::marionette	INFO	Starting browser D:\program files\Mozilla Firefox\firefox.exe
+1558402733289	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59051
+1558402734123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558402734123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558402734123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558402736820	Marionette	INFO	Listening on port 2828
+[Parent 17556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14260, Chrome_ChildThread] WARNING: pipe error[Parent 17556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558402744277	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558402940020	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.qRrNccGSFUuY"
+1558402940941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558402940941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558402940941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558402943755	Marionette	INFO	Listening on port 59381
+1558402944039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 20604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Chie/cold 2mmon/ip2176, Chromc_channee_ChildThrl_wiead] WnARNING.cc,: pi line 33pe e2rror
+: 109: file[Chil z:/budild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22176, Chrome_ChildThre[Parent 21384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18744, C1558402974226	Marionette	INFO	Stopped listening on port 59381
+[GPU 3720, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404101753	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.zLuFxfEjQb9V"
+1558404102760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404102761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404102761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404105478	Marionette	INFO	Listening on port 59692
+[Child 6956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c[Common/ipc_channhild 2e2048, Chl_winrome_Ch.cc, line 332
+ildThread] WARNING: pi[pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22048, Chrome_ChildThrea[Parent 17308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18208, Chrome_Ch1558404109927	Marionette	INFO	Stopped listening on port 59692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404115631	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.z6evof0VqL0z"
+1558404116523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404116523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404116523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404119167	Marionette	INFO	Listening on port 59731
+1558404119572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 9916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 33[Chil2
+d 19756, Chrome_ChildThread] WARNING: pipe [error:Child 17804, Chrome 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19756, Chro[Parent 9916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558404315715	Marionette	INFO	Stopped listening on port 59731
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404321179	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.wcCCkBmmPm8m"
+1558404322269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404322269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404322270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404324803	Marionette	INFO	Listening on port 59843
+1558404325321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21784, Chrome[Parent 18924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20760, Chrome_ChildThread] WARNING: pipe error: 11558404346435	Marionette	INFO	Stopped listening on port 59843
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404351383	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.MXrBpka7qn7Y"
+1558404352176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404352177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404352177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404354964	Marionette	INFO	Listening on port 59932
+[Child 19808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Chil3d2
+ 17864, Chrome_Ch[Child 19808,ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17864, Chrome_ChildThrea[Parent 19308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15556, Chro1558404358594	Marionette	INFO	Stopped listening on port 59932
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404363562	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.vkxCz7Sbc4ko"
+1558404364325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404364325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404364325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404366826	Marionette	INFO	Listening on port 59964
+1558404366916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[ Child 12540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558404430416	Marionette	INFO	Stopped listening on port 59964
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404455927	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.7ja4ujkaF95T"
+1558404457040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404457040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404457040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404459623	Marionette	INFO	Listening on port 60057
+1558404460420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 13380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23[Child 22412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Child 22468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22468, Chrome_ChildThread] WARN1558404517853	Marionette	INFO	Stopped listening on port 60057
+[GPU 18776, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404711934	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.oU6DNqXkRlA0"
+1558404712916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404712916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404712916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404715462	Marionette	INFO	Listening on port 60342
+1558404715859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 19360, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 19360, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/[Childc 9364, Chrome_ChihlrdoTmhiruema/ds]r cW/ARNINcGh:r opmiep/ec oemrmroonr/:i 10p9c:_ cfhiannel_lwine .czc, :lin/e 4b93u
+ild/build/src/ipc[Chi/ld c19360,h Chrorme_ChioldmThread] WiARNum/srING:c pi/chrpe eome/common/ipc_charronr: 10n9: file ze:l/_bwuild/build/sirc/ipn.cc, line c/ch3romium/src/ch3r2ome/co
+mmon/ipc_channel_win.cc, line 332
+[Child 9364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_ch[aCnhinlel_win.cc, lid 19n360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558404746371	Marionette	INFO	Stopped listening on port 60342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20808
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558404750937	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.JYFNV2BJ2855"
+1558404751833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558404751833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558404751833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558404754502	Marionette	INFO	Listening on port 60436
+1558404754876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 21208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3448, Chrome_ChildT[Child 21032, Chrome_ChildThread] WARNIN[Parent 21208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15956, Chro1558405045813	Marionette	INFO	Stopped listening on port 60436
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558405052953	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.6eVsfAPotA09"
+1558405053982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558405053982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558405053983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558405056571	Marionette	INFO	Listening on port 59663
+1558405057161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6308, Chrome_ChildThread][ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6308, Chrome_ChildThread] WARNING: pipe error[Parent 20912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6860, Chrom1558405117999	Marionette	INFO	Stopped listening on port 59663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558405143103	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.4iBRg29ReWzX"
+1558405143853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558405143853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558405143853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558405146426	Marionette	INFO	Listening on port 59762
+1558405146446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22480, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 22972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22972,1558405632931	Marionette	INFO	Stopped listening on port 59762
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 16364, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 17668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C[Child 2hil1d852, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 21852, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21852, Chrome_ChildThread] WARNING: p[Child 14048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14048, Chro1558405633309	Marionette	INFO	Stopped listening on port 59870
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send1558405633817	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.fiA0uTO3FfQz"
+1558405634974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558405634975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558405634976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558405637602	Marionette	INFO	Listening on port 60323
+1558405638512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 19268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Chrild 21864, Comhromee/common/i_Cpc_channehl_wiin.lcc,d line 332Thread] WARNING: pip
+e error: 109: file z:/buil[Child 19268, Chd/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[Parent 7848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558405719867	Marionette	INFO	Stopped listening on port 60323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22980, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 21488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19888, Ch[Child 22040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22040, Chrome_ChildThread] WARNING: pipe erro[Parent 21488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18540, Chrome_ChildTh1558405717665	Marionette	INFO	Stopped listening on port 60415
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3796
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558405747513	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.gRvtlqmWDU4t"
+1558405748373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558405748373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558405748373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558405751079	Marionette	INFO	Listening on port 60507
+1558405751354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 14728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Child, 218 line 3320
+0, Chrome_ChildThread] WARNING: pipe error[Chi: 109:ld 19368, file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21800, Chrome_ChildThread]1558406086008	Marionette	INFO	Stopped listening on port 60507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Script error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 17824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21492, Chrome_ChildThread] WARNING: pipe e[Child 22132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22132, Chrome_C[Parent 17824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558406086258	Marionette	INFO	Stopped listening on port 60688
+[GPU 1172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 15972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15972,[Parent 20856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+23140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23140, Chrome_ChildThread] WARNING: pipe error: 1558406088664	Marionette	INFO	Listening on port 60878
+1558406089011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22308, Chrome_ChildThread][Child 12368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12368, Chrome_ChildThread[Parent 15772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 144, Chrome_Chi1558406138202	Marionette	INFO	Stopped listening on port 60878
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558406383573	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.hYJLjyI8HNBt"
+1558406384427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558406384428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558406384428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558406386928	Marionette	INFO	Listening on port 61031
+1558406387339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 21424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20500, Chrome_Child[Parent 21424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16940, Chrome_Child[Parent 21424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558407356728	Marionette	INFO	Stopped listening on port 61031
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: ChannelJavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 21636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21636, Chrome_ChildThread1558407357043	Marionette	INFO	Stopped listening on port 61236
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 1926
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2436, Chrome[Parent 20828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 133041558407357358	Marionette	INFO	Stopped listening on port 61346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558419399628	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.guwrn9rT6eo1"
+1558419400936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419400937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419400937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419404740	Marionette	INFO	Listening on port 63484
+1558419405106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558419411100	Marionette	INFO	Stopped listening on port 63484
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 14872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13288, Chrome_ChildThread] WARNING: pipe er[GPU 5
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558419461039	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.oeuf8CproQrI"
+1558419462572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558419462572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558419462572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558419465752	Marionette	INFO	Listening on port 63577
+1558419466071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 22032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[hromChile/commond 17928, /ipc_chanChronel_me_Cwin.cc, lhildine 332Thread] WARNING: pipe error: 109: f
+ile z:/build/bu[Cihlid/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17928, Chrome_ChildThread] WARNING: pipe error: 109[Parent 22032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7516, Chro1558419679241	Marionette	INFO	Stopped listening on port 63577
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558425966824	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.7IIun5ie6QkF"
+1558425968506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558425968506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558425968506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558425973386	Marionette	INFO	Listening on port 64357
+1558425973518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 6628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7296, Chrome_ChildThread] WA[Child 2076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Pa1558426061261	Marionette	INFO	Listening on port 64461
+[Child 19912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748, Chrome_C[Child 23028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23028, Chrome_ChildThread1558426063192	Marionette	INFO	Stopped listening on port 64461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20360, Chrome_ChildThread] WARNING: pipe error: 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558426070331	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.x5olK4mA6txD"
+1558426071635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558426071635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558426071635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558426076127	Marionette	INFO	Listening on port 64493
+1558426076415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558426136551	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.i9beKQijGnPf"
+1558426138221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558426138222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558426138222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558426142976	Marionette	INFO	Listening on port 64589
+1558426143222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558426152448	Marionette	INFO	Stopped listening on port 64589
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 18484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6684, Chrome_ChildThre[Child 23032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23032, Chrome_ChildThrea[Parent 18484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558426267079	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.TAVOyfsQ0MoW"
+1558426268275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558426268276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558426268276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1558426273175	Marionette	INFO	Listening on port 64688
+1558426273639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558426285030	Marionette	INFO	Stopped listening on port 64688
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22448, Ch[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19752, Chrome_ChildThread] WARNING
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22128, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558426715555	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.2nebaq24lIsW"
+1558426716589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558426716590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558426716590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558426719242	Marionette	INFO	Listening on port 64811
+1558426720353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 6780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chan[Chnelild _win.cc, l2109ine 332
+2, Chrome_[ChChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[Parent 17780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19364, Chrome_ChildT1558426905976	Marionette	INFO	Stopped listening on port 64811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23260, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558426911012	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.fkcGGxUu5KSs"
+1558426911871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558426911872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558426911872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558426914394	Marionette	INFO	Listening on port 64912
+1558426914439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9168, Chrome_ChildThread] WAR[Child 4100, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 4100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4100, Chrome_ChildThread] WARNI[Parent 18264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558427975480	Marionette	INFO	Stopped listening on port 64912
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558428581359	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.nv8yDLRVRJc7"
+1558428582233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558428582234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558428582234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558428585056	Marionette	INFO	Listening on port 65199
+1558428585361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[eChild/com 181mon/ipc_c1han6nel, Ch_winrome_.cc, ChildThreline 33a2
+d] WARNING: pipe error: 109:[ file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18116, Chrome_ChildTh[Parent 2684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21260, Chrome_ChildThread] WARNI1558428636973	Marionette	INFO	Stopped listening on port 65199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558428621903	Marionette	INFO	Stopped listening on port 65282
+[Child 15828, Chrome_ChildThread] WARNING: pi[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10272, Chrome_ChildThre[Parent 19712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2896, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558428903817	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.KWFDXshnu9HG"
+1558428904694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558428904694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558428904694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558428907245	Marionette	INFO	Listening on port 65397
+1558428907263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558428912549	Marionette	INFO	Stopped listening on port 65397
+[Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14344, Chrome_ChildThread] WARNING[Parent 18028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16940, Chrome_ChildThread] WA
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558428945589	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.7dcHIgW5H21h"
+1558428946363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558428946363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558428946363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558428948906	Marionette	INFO	Listening on port 65482
+1558428948926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 22964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10792, Chrome_ChildThr[Child 23272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 20184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20184, 1558430182850	Marionette	INFO	Stopped listening on port 65482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558430216601	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.Fw8pOstZ0FXl"
+1558430217485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558430217485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558430217485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558430220126	Marionette	INFO	Listening on port 49285
+1558430220591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558430224312	Marionette	INFO	Stopped listening on port 49285
+[Child 22968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22968, Ch[Parent 9280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14388, Chrome_ChildThread][Parent 9280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21696, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558431018272	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.q7iANHyydG7z"
+1558431019125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558431019126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558431019126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558431021805	Marionette	INFO	Listening on port 49399
+1558431022188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558431026555	Marionette	INFO	Stopped listening on port 49399
+[Child 3964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3964, Chrome_ChildThread] WARNING: [Child 544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 544, Chrome_Chil[Parent 22184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451565051	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.REs9sD1HoH6H"
+1558451568469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451568469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451568469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451571961	Marionette	INFO	Listening on port 63798
+1558451572494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558451576323	Marionette	INFO	Stopped listening on port 63798
+[Parent 4552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8944, Chrome_ChildThre[Parent 4552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6944, Chrome_Chil[Parent 4552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 5620, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451734628	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.O6SXzVjQOdVj"
+1558451735681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451735681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451735681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451738400	Marionette	INFO	Listening on port 63896
+1558451738760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 20556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 2d2 21276,1 Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21276, Chrome_ChildThread] WARNING1558451755642	Marionette	INFO	Stopped listening on port 63896
+[GPU 23036, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451793503	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.LDCoRS9QRoZo"
+1558451794566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451794566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451794566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451797329	Marionette	INFO	Listening on port 63983
+1558451797565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23020, Chrome_ChildThread] WARNIN[Child 21228, Chrome_ChildTG: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Parent 22184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558451807567	Marionette	INFO	Stopped listening on port 63983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9364, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451848061	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.vfw9J9zLcF1g"
+1558451848845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451848845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451848845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451851429	Marionette	INFO	Listening on port 64069
+1558451851905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558451857111	Marionette	INFO	Stopped listening on port 64069
+[Parent 13208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22440, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel] Error: (msgtype=0x520011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 19204, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19204, Chrome_ChildT[Parent 13208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11280, Chrome_Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451924428	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.8QB8qFzUDGMn"
+1558451925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451928289	Marionette	INFO	Listening on port 64162
+1558451928935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22420, Chr[omeC_ChildThread] WARNING: pipe ehild 15740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15740, Chrome_Child[Parent 10632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4824, Chr1558451958082	Marionette	INFO	Stopped listening on port 64162
+[GPU 10800
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558451992948	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.FCf3cXhY5HB9"
+1558451993767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558451993768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558451993768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558451996568	Marionette	INFO	Listening on port 64257
+1558451996773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452000581	Marionette	INFO	Stopped listening on port 64257
+[Parent 15184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18152, Chrom[Child 19992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452052527	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.ljlUgzTiHUxE"
+1558452053306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452053306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452053306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452055892	Marionette	INFO	Listening on port 64328
+1558452056420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452059771	Marionette	INFO	Stopped listening on port 64328
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12520, Chrome[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452073042	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.u0kddSD6skwL"
+1558452073797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452073797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452073797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452076477	Marionette	INFO	Listening on port 64402
+1558452076872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452080458	Marionette	INFO	Stopped listening on port 64402
+[Parent 7080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15116, Ch[Child 13064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13064, Chrome_ChildThread] W[Parent 7080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11280, Chrome_[GPU 163
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452116259	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.8cC5SBzWgSRi"
+1558452117155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452117155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452117155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452119742	Marionette	INFO	Listening on port 64478
+1558452120089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452123935	Marionette	INFO	Stopped listening on port 64478
+[Parent 13236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452194202	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.qSoxdeFeOzyK"
+1558452195219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452195219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452195219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452197814	Marionette	INFO	Listening on port 64588
+1558452198172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452202553	Marionette	INFO	Stopped listening on port 64588
+[Child 4100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4100, ChromJavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 21240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21240, Chrome_ChildThread] WARNING: pi[Parent 15808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452222857	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.UuTHWCKzJVWD"
+1558452223782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452223782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452223782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452226387	Marionette	INFO	Listening on port 64670
+1558452226821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452230674	Marionette	INFO	Stopped listening on port 64670
+[Child 16560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16560, Chrom[Child 1284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1284, Chrom[GPU 2040, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452269471	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.ZonpHQiu647j"
+1558452270237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452270238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452270238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452272881	Marionette	INFO	Listening on port 64741
+1558452273299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452276853	Marionette	INFO	Stopped listening on port 64741
+[Child 22100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22100, Chrome_ChildThread][Parent 22024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5584, Chrome_[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452476192	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.NsGEbdbMfhGl"
+1558452476959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452476959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452476959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452479650	Marionette	INFO	Listening on port 64824
+1558452480274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452484901	Marionette	INFO	Stopped listening on port 64824
+[Parent 13340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: jar:file:///D:/program%20files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Child 8544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8544, Ch[Parent 13340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452625533	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.9zgzjX7UPf83"
+1558452626558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452626558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452626558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452629255	Marionette	INFO	Listening on port 64911
+1558452629702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 22372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann[Child 20504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20504, Chrome_ChildThrea1558452638156	Marionette	INFO	Stopped listening on port 64911
+[GPU 12756
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452649987	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.ItDVGDJ9Tg2d"
+1558452650749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452650750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452650750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452653318	Marionette	INFO	Listening on port 64998
+1558452653816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452656868	Marionette	INFO	Stopped listening on port 64998
+[Parent 19352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21528, Chrome_ChildT[Parent 19352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 19352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 19796, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452689051	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.VJJmfUeVieOd"
+1558452689816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452689817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452689817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452692386	Marionette	INFO	Listening on port 65073
+1558452692881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452696086	Marionette	INFO	Stopped listening on port 65073
+[Child 18592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18592, Chrome[Parent 21076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21548, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558452828958	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.OA15FgPdM9h4"
+1558452829725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558452829725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558452829725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558452832347	Marionette	INFO	Listening on port 65157
+1558452833271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558452837073	Marionette	INFO	Stopped listening on port 65157
+[Parent 18388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15184, C[Child 23404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23404, Chro[GPU 4276
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558454325439	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.rnJutmUdGl4d"
+1558454327084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558454327084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558454327084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558454331815	Marionette	INFO	Listening on port 57885
+1558454332186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558454346062	Marionette	INFO	Stopped listening on port 57885
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 5072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5072, Chr[Parent 7104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22184, Chrome_ChildThread] WARNIN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558454485707	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.SkmAjZWbXMA8"
+1558454487357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558454487357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558454487357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558454492288	Marionette	INFO	Listening on port 58009
+1558454492588	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11704, Chro[Child 3764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9920, Chrome_ChildThread] WARNING: pipe error:1558454499287	Marionette	INFO	Stopped listening on port 58009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558454504041	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.JULiLG55qVtV"
+1558454505309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558454505310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558454505310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558454509940	Marionette	INFO	Listening on port 58056
+1558454510124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+1558454518568	Marionette	INFO	Stopped listening on port 58056
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: jar:file:///D:/program%20files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 18492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12724, Chrome_ChildThread] WARNING: pipe error: 109: fi[Parent 18492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22072, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8872, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558454739235	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.61aX5GAkdvII"
+1558454740436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558454740437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558454740437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558454744808	Marionette	INFO	Listening on port 58165
+1558454745303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558454775626	Marionette	INFO	Stopped listening on port 58165
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 19352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19352, Chrome_ChildThread] WAR[Parent 4276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23200, Chrome_ChildThread][Parent 4276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 900
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558517350711	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.WTo1cdkGYhYQ"
+1558517380281	mozrunner::runner	INFO	Running command: "D:\\program files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lambda\\AppData\\Local\\Temp\\rust_mozprofile.eoN1RGi1tmn5"
+1558517382057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558517382058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558517382058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558517384485	Marionette	INFO	Listening on port 65218
+1558517384950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://www.shufazidian.com/fangda/js/pngobject.js, line 32: TypeError: window.attachEvent is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/[Child 2444i0,pc/chromium/s Chrorc/chrome/common/imep_ChildThread] WARNING:c_channel_win. pipcc, e errline 341
+or: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrom[eChild 22496, Chrom/e_ChildThrcommon/ipc_channel_win.cc, line 341
+[Child 24440, Chro[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13152, C1558517440058	Marionette	INFO	Stopped listening on port 65218
+[GPU 25592, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
