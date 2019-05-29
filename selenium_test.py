@@ -5,6 +5,7 @@ import urllib.request as ur
 from urllib.parse import quote
 import re
 import time
+import os
 
 browser=webdriver.Firefox()
 
@@ -17,17 +18,23 @@ browser.get("http://www.shufazidian.com/")
 browser.find_element_by_xpath("//form[@name='form1']/input[@id='wd']").send_keys("罗")
 browser.find_element_by_xpath("//form[@name='form1']/select[@id='sort']").send_keys("8")
 
-# 模拟点击查询
+# 模拟点击查询按钮
 browser.find_element_by_xpath("//form[@name='form1']/button[@type='submit']").click()
 
+# 获取元素列表
 x = browser.find_elements_by_xpath("/html/body/div[3]/div[2]/div[1]/div[3]/div")
+
+path = 'pic'
+if not os.path.exists(path):
+    os.mkdir(path)
 
 i = 0
 for xx in x:
     img = xx.find_element_by_xpath('./div/div/a/img')
     src = img.get_attribute('src')
     print(src)
-    ur.urlretrieve(src, '%s.jpg'%i)
+    # 下载图片
+    ur.urlretrieve(src, '%s/%s.jpg'%(path,i))
     i += 1
 
 
@@ -37,8 +44,6 @@ text=browser.page_source
 
 browser.close()
 
-html = str(pq(text))
-
-#print(html)
-with open('page.html','w', encoding='utf-8') as file_object:
-    file_object.write(html)
+#html = str(pq(text))
+#with open('page.html','w', encoding='utf-8') as file_object:
+#    file_object.write(html)

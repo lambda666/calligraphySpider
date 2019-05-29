@@ -10,11 +10,8 @@ import scrapy
 
 class ShufazidianItem(scrapy.Item):
     # define the fields for your item here like:
+    style = scrapy.Field()
     title = scrapy.Field()
-
-    # 分类的标题
     category = scrapy.Field()
-    # 图片地址
     image_urls = scrapy.Field()
-
     images = scrapy.Field()
